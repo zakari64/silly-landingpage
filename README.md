@@ -1,4 +1,4 @@
-# silly-landingpage
+# DopeTech-landingpage
 Notre premier saas landing page: DOPETECH
 Description :
 Notre première page proposant des produits technologiques différents et aussi des services variés  .
